@@ -3,8 +3,10 @@
 
     <string name="app_name">Subastas</string>
     <string name="action_settings">Settings</string>
-    <string name="title_section1">Section 1</string>
-    <string name="title_section2">Section 2</string>
-    <string name="title_section3">Section 3</string>
+    <string name="titulo_seccion_subastas">Productos en subasta</string>
+    <string name="titulo_seccion_pujas_activas">Subastas activas</string>
+    <string name="titulo_seccion_mis_pujas">Mis pujas</string>
+    <string name="title_activity_detalles_subasta">DetallesSubastaActivity</string>
+    <string name="hello_world">Hello world!</string>
 
 </resources>
